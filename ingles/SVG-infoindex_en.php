@@ -19,7 +19,7 @@
  we will become a reference for any institution looking for the kind of democratic and open management that up 
  till now used to be a dream.</p>
 
-<a class="boton icono vermas_en" href="model_en/business_model.php"></a>
+<a class="boton icono vermas_en" href="model_en/business_model_en.php"></a>
 
 </div>
 <!-- // cerro texto -->
