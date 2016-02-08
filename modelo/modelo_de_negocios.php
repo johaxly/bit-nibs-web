@@ -2,12 +2,12 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Bit &amp; Nibs</title>
+		<title>Bit &amp; Nibs - Modelo de negocios</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" type="text/css" href="estilos.css">
 
 		<script src="http://code.jquery.com/jquery-latest.js"></script>
-		<script src="SVsystem/js/utils.js"></script>
+		<script src="../SVsystem/js/utils.js"></script>
 		<script>
 		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
