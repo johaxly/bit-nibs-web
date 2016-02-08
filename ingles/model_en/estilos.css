@@ -13,34 +13,34 @@ img{border:none;}
 
 @font-face {
 font-family: 'ag';
-src: url('../font/alternategothic.svg') format('svg'),
-url('../font/alternategothic.eot?#iefix') format('embedded-opentype'), 
-url('../font/alternategothic.woff') format('woff'), 
-url('../font/alternategothic.ttf')  format('truetype');
+src: url('../../font/alternategothic.svg') format('svg'),
+url('../../font/alternategothic.eot?#iefix') format('embedded-opentype'), 
+url('../../font/alternategothic.woff') format('woff'), 
+url('../../font/alternategothic.ttf')  format('truetype');
 }
 
 @font-face {
 font-family: 'iconos';
-src: url('../font/fontawesome-webfont.svg') format('svg'),
-url('../font/fontawesome-webfont.eot?#iefix') format('embedded-opentype'), 
-url('../font/fontawesome-webfont.woff') format('woff'), 
-url('../font/fontawesome-webfont.ttf')  format('truetype');
+src: url('../../font/fontawesome-webfont.svg') format('svg'),
+url('../../font/fontawesome-webfont.eot?#iefix') format('embedded-opentype'), 
+url('../../font/fontawesome-webfont.woff') format('woff'), 
+url('../../font/fontawesome-webfont.ttf')  format('truetype');
 }
 
 @font-face {
 font-family: 'latoh';
-src: url('../font/lato-hairline-webfont.svg') format('svg'),
-url('../font/lato-hairline-webfont.eot?#iefix') format('embedded-opentype'), 
-url('../font/lato-hairline-webfont.woff') format('woff'), 
-url('../font/lato-hairline-webfont.ttf')  format('truetype');
+src: url('../../font/lato-hairline-webfont.svg') format('svg'),
+url('../../font/lato-hairline-webfont.eot?#iefix') format('embedded-opentype'), 
+url('../../font/lato-hairline-webfont.woff') format('woff'), 
+url('../../font/lato-hairline-webfont.ttf')  format('truetype');
 }
 
 @font-face {
 font-family: 'din';
-src: url('../font/dinpro-regular-webfont.svg') format('svg'),
-url('../font/dinpro-regular-webfont.eot?#iefix') format('embedded-opentype'), 
-url('../font/dinpro-regular-webfont.woff') format('woff'), 
-url('../font/dinpro-regular-webfont.ttf')  format('truetype');
+src: url('../../font/dinpro-regular-webfont.svg') format('svg'),
+url('../../font/dinpro-regular-webfont.eot?#iefix') format('embedded-opentype'), 
+url('../../font/dinpro-regular-webfont.woff') format('woff'), 
+url('../../font/dinpro-regular-webfont.ttf')  format('truetype');
 }
 
 html,body{ height:100%;}
@@ -48,7 +48,7 @@ a{ cursor:pointer;}
 
 
 body.interno{ 
-	background-image:url(../SVimagenes/01.jpg);
+	background-image:url(../../SVimagenes/01.jpg);
 	background-position:center center;
 	-moz-background-size: auto 100%;  
  	-o-background-size: auto 100%;  
@@ -325,7 +325,7 @@ body.interno #barra  a.enelindex{display:none!important;}
 /* carrusel  *************************************/
 
 #carrusel{ 
-	background-image:url(../SVimagenes/01.jpg);
+	background-image:url(../../SVimagenes/01.jpg);
 	background-attachment:fixed;
 	}
 	
@@ -376,7 +376,7 @@ body.interno #barra  a.enelindex{display:none!important;}
 /* infoindex  *****************************/
 
 #infoindex{ 
-	background-image:url(../SVimagenes/montanitas.png);
+	background-image:url(../../SVimagenes/montanitas.png);
 	background-position:center bottom;
 	background-repeat:no-repeat;
 }
@@ -456,7 +456,7 @@ div.seccion#chocolate{
 #chocolate:after{
 	width:225px; 
 	height:214px;
-	background-image:url(../SVimagenes/choco1.png);
+	background-image:url(../../SVimagenes/choco1.png);
 	display:block;
 	position:absolute;
 	bottom:0px;
@@ -493,7 +493,7 @@ div.seccion#chocolate{
 
 /* registro  ************************************/
 
-#registro{ background-image:url(../SVimagenes/02.jpg); }
+#registro{ background-image:url(../../SVimagenes/02.jpg); }
 
 #registro #registroinner{
 	max-width:1200px;
@@ -716,7 +716,7 @@ text-transform:capitalize;}
 	padding:20px;
 	overflow:hidden;
 	color:#fff;
-	background-image:url(../SVimagenes/montanitas.png);
+	background-image:url(../../SVimagenes/montanitas.png);
 	background-position:center bottom;
 	background-repeat:no-repeat;
 	height: 100%;
@@ -1053,8 +1053,3 @@ margin:0 0 20px 0;
 #fin{
 	margin-bottom: 50px;
 }
-
-
-
-
-
