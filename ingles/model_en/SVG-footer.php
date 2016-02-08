@@ -9,7 +9,7 @@
 
 <!-- logo -->
 	<div id="logo">
-	<img src="../SVimagenes/logo.png">
+	<img src="../../SVimagenes/logo.png">
 	</div>
 <!-- // cerro logo -->
 
