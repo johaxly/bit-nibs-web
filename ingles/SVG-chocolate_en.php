@@ -46,7 +46,7 @@ deal for you if you want to obtain dividends as well as the satisfaction
 of achieving social objectives.</p>
 
 
-<a class="boton icono vermas_en"  href="business_model.php"></a>
+<a class="boton icono vermas_en"  href="model_en/business_model_en.php"></a>
 
 </div>
 <!-- // cerro texto -->
@@ -68,4 +68,3 @@ of achieving social objectives.</p>
 
 </div>
 <!-- // cerro chocolate -->
-
